@@ -34,12 +34,6 @@ A command-line based unit converter developed in Python, rebuilt from an origina
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python 3
-- Command-Line Interface (CLI)
-
----
 
 ## ▶️ How to Run
 
