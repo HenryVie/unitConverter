@@ -1,7 +1,7 @@
 # unitConverter
 A small terminal-interaction unit converter program
 
-# 🔄 Unit Converter CLI (Python)
+# 🔄 Unit Converter CLI
 
 A command-line based unit converter developed rebuilt from my original MATLAB assignment to strengthen programming skills and deepen understanding of core concepts. I decided to rebuild this in Python and C, the languages that I'm using, to see the difference of how they work and to practice my coding skill in both langauges. I might make more language verions in the future if I move to learn a new language.
 
